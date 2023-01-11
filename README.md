@@ -1,7 +1,14 @@
-# 2023_NU_Summer_VR
+# Northwestern CS496 Advanaced Computer Graphics Seminar: VR/AR Systems
+Course Instructor: Jipeng Sun, Northwestern University
+Course Coordinator: Prof. Jack Tumblin, Northwestern University
+Course Assisant: Ashwin Baluja, Northwestern University
 
 ## Introduction
+(Course Summary Notes from Ashwin Baluja)
 ## Syllabus
+
+### Week 1
+Introduction to VR/AR systems and basic graphics pipelines.
 ## Sourcing
 ## Resources
 ### Similar Course Websites from Other Universities:
