@@ -21,7 +21,7 @@ Course Assisant:
 Introduction to VR/AR systems and basic graphics pipelines.
 ## Sourcing
 ## Resources
-### Similar Course Websites from Other Universities:
+### Similar Courses from Other Universities:
 
 [Stanford EE267](http://stanford.edu/class/ee267/syllabus.html)
 
