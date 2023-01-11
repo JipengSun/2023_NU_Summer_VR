@@ -4,7 +4,7 @@ Course Coordinator: [Prof. Jack Tumblin, Northwestern University](https://www.mc
 
 Course Instructor: [Jipeng Sun, Northwestern University](https://jipengsun.github.io/)
 
-Course Assisant: Ashwin Baluja, Northwestern University
+Course Assisant: [Ashwin Baluja, Northwestern University](https://www.linkedin.com/in/ashwinbaluja/)
 
 ## Introduction
 [Course Summary Notes from Ashwin Baluja](https://docs.google.com/document/d/1KwzQh9GtexCEEMtMlNWnygPWvxoisXmhsLYb3fq0bsw/edit)
