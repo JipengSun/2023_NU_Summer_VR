@@ -1,8 +1,8 @@
 # CS496 Advanaced Computer Graphics Seminar: VR/AR Systems
 
-Course Coordinator: Prof. Jack Tumblin, Northwestern University
+Course Coordinator: [Prof. Jack Tumblin, Northwestern University](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/tumblin-jack.html)
 
-Course Instructor: Jipeng Sun, Northwestern University
+Course Instructor: [Jipeng Sun, Northwestern University](https://jipengsun.github.io/)
 
 Course Assisant: Ashwin Baluja, Northwestern University
 
