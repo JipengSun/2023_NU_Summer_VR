@@ -7,7 +7,8 @@ Course Instructor: Jipeng Sun, Northwestern University
 Course Assisant: Ashwin Baluja, Northwestern University
 
 ## Introduction
-(Course Summary Notes from Ashwin Baluja)
+[Course Summary Notes from Ashwin Baluja](https://docs.google.com/document/d/1KwzQh9GtexCEEMtMlNWnygPWvxoisXmhsLYb3fq0bsw/edit)
+
 ## Syllabus
 
 ### Week 1
