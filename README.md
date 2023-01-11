@@ -1,4 +1,4 @@
-# Northwestern CS496 Advanaced Computer Graphics Seminar: VR/AR Systems
+# CS496 Advanaced Computer Graphics Seminar: VR/AR Systems
 
 Course Coordinator: Prof. Jack Tumblin, Northwestern University
 
