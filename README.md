@@ -37,6 +37,8 @@ Introduction to VR/AR systems and basic graphics pipelines.
 
 3. What are the tradeoffs for different design plans?
 
+VR design plans brain storming. There is no 'correct' answers for engineering. The problem we are facing is: 'Driven by your passion/goal, given limited resources, knowing what is your metrics to evaluate success, how to make your best possible plan and act on it.' Come up with a step-by-step hardware prototyping iteration plan. Start sourcing the hardware components based on your design.
+
 [Brainstorm Recording Notes from Ashwin Baluja](https://docs.google.com/document/d/1095E-3hxstYPrixhDUMt8MTo0VFCKXdvQ9nbPGZaKUU/edit)
 
 ## Sourcing
