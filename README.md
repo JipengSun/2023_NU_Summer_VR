@@ -20,7 +20,7 @@ Course Assisant:
 ## Syllabus
 
 ### Week 1
-**Key question to ask** 
+**Key questions to ask** 
 
 1. What really makes a VR VR? 
 
@@ -29,7 +29,7 @@ Course Assisant:
 Introduction to VR/AR systems and basic graphics pipelines.
 
 ### Week 2
-**Key question to ask** 
+**Key questions to ask** 
 
 1. What is the minimum viable product for a VR? 
 
