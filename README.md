@@ -20,7 +20,25 @@ Course Assisant:
 ## Syllabus
 
 ### Week 1
+**Key question to ask** 
+
+1. What really makes a VR VR? 
+
+2. What is the computational process of transforming a 3D scene to what displayed to your eyes?
+
 Introduction to VR/AR systems and basic graphics pipelines.
+
+### Week 2
+**Key question to ask** 
+
+1. What is the minimum viable product for a VR? 
+
+2. How should we turn a passion/dream to a workable engineering plan? 
+
+3. What are the tradeoffs for different design plans?
+
+[Brainstorm Recording Notes from Ashwin Baluja](https://docs.google.com/document/d/1095E-3hxstYPrixhDUMt8MTo0VFCKXdvQ9nbPGZaKUU/edit)
+
 ## Sourcing
 ## Resources
 ### Similar Courses from Other Universities:
