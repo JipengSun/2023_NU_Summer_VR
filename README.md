@@ -31,7 +31,7 @@ Introduction to VR/AR systems and basic graphics pipelines.
 ### Week 2
 **Key questions to ask** 
 
-1. What is the minimum viable product for a VR? 
+1. What is the minimum viable product (MVP) for a VR? 
 
 2. How should we turn a passion/dream to a workable engineering plan? 
 
