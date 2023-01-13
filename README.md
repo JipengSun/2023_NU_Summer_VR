@@ -8,7 +8,7 @@ Course Instructor:
 
 [Jipeng Sun, Northwestern University](https://jipengsun.github.io/)
 
-Course Assisant: 
+Course Assistant: 
 
 [Ashwin Baluja, Northwestern University](https://www.linkedin.com/in/ashwinbaluja/)
 
