@@ -33,13 +33,40 @@ Introduction to VR/AR systems and basic graphics pipelines.
 
 1. What is the minimum viable product (MVP) for a VR? 
 
-2. How should we turn a passion/dream to a workable engineering plan? 
+2. How could we turn a passion/dream into a workable engineering plan? 
 
 3. What are the tradeoffs for different design plans?
 
 VR design plans brain storming. There is no 'correct' answers for engineering. The problem we are facing is: 'Driven by your passion/goal, given limited resources, knowing what is your metrics to evaluate success, how to make your best possible plan and act on it.' Come up with a step-by-step hardware prototyping iteration plan. Start sourcing the hardware components based on your design.
 
 [Brainstorm Recording Notes from Ashwin Baluja](https://docs.google.com/document/d/1095E-3hxstYPrixhDUMt8MTo0VFCKXdvQ9nbPGZaKUU/edit)
+
+### Week 3
+**Key questions to ask** 
+
+1. Given a designed MVP, which is a near eye monitor, how to draw/render scenes on that screen?
+
+2. What is the logic of the graphics rendering pipeline?
+
+3. How to use WebGL to implement the rendering pipeline?
+
+### Week 4
+**Key questions to ask** 
+
+1. Will the current implemented binocular rendering effect work? Why it won't give us 3D effect?
+
+2. What are the biological anatomy and functions of human binocular eyes? 
+
+3. How should we change our graphics rendering logics to fit for human perception?
+
+### Week 5
+**Key questions to ask** 
+
+1. To make it real, how to make a 2 cm displayed image be perceived as 1.5 meter away from the users?
+
+2. What are the poplur optical components of current near eye display? How do they work? What are the trade-offs?
+
+3. Will the rendered images look distorted after adding lens between the display and eyes? If so, how should we correct them?
 
 ## Sourcing
 ## Resources
