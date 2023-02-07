@@ -62,7 +62,7 @@ VR design plans brain storming. There is no 'correct' answers for engineering. T
 ### Week 5
 **Key questions to ask** 
 
-1. To make it real, how to make a 2 cm displayed image be perceived as 1.5 meter away from the users?
+1. To make it real, how to make a 2-cm far displayed image be perceived as 1.5-meter away from the users?
 
 2. What are the poplur optical components of current near eye display? How do they work? What are the trade-offs?
 
