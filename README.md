@@ -71,9 +71,30 @@ VR design plans brain storming. There is no 'correct' answers for engineering. T
 3. Will the rendered images look distorted after adding lens between the display and eyes? If so, how should we correct them?
 
 ## Sourcing
-## Resources
-### Similar Courses from Other Universities:
 
-[Stanford EE267](http://stanford.edu/class/ee267/syllabus.html)
+### Microprocessor
+
++ [Raspberry Pi Zero 2W](https://www.raspberrypi.com/products/raspberry-pi-zero-2-w/)
++ [PJRC Teensy 4.1](https://www.amazon.com/PJRC-Cortex-M7-Processor-iMXRT1062-Without/dp/B088JY7P2H/ref=sr_1_1?crid=3L91V8C3E4892&keywords=teensy&qid=1675281865&sprefix=teensy%2Caps%2C119&sr=8-1)
+
+
+### Display
+
+Mono-Display
++ [7 inch LCD (STARTEK IPS Module)](https://www.alibaba.com/product-detail/5-5-5-5-6-5_1600512906287.html?spm=a2700.details.0.0.6aa27b35LK90YX)
+
+Binocluar-Displays
++ [4 inch Square LCD](https://www.alibaba.com/product-detail/4-0inch-Square-tft-lcd-display_62075695201.html?spm=a2700.7724857.0.0.16502b63kK0wwP)
+
+### Accelerometer (IMU)
++ [HiLetgo MPU-6050] (https://www.amazon.com/Pack-Google-Cardboard-Bi-convex-Biconvex/dp/B01FWVWUEU/ref=sr_1_6?keywords=Virtual+Reality+Lenses&qid=1675283182&sr=8-6)
+
+### Lens
++ [Google Cardboard Biconvex Lens](https://www.amazon.com/Pack-Google-Cardboard-Bi-convex-Biconvex/dp/B01FWVWUEU/ref=sr_1_6?keywords=Virtual+Reality+Lenses&qid=1675283182&sr=8-6)
+
+## Resources
+### VR Hardware Courses from Other Universities:
+
+[Stanford University EE267](http://stanford.edu/class/ee267/syllabus.html)
 
 [University of Washington CSE409V](https://courses.cs.washington.edu/courses/cse490v/20wi/#projects)
