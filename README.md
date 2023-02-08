@@ -1,5 +1,7 @@
 # CS496 Advanced Computer Graphics Seminar: VR/AR Systems
 
+![cover_image](https://github.com/JipengSun/2023_NU_Summer_VR/blob/main/vr_ar_cover.png)
+
 Course Coordinator: 
 
 [Prof. Jack Tumblin, Northwestern University](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/tumblin-jack.html)
