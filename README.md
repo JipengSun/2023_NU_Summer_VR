@@ -1,4 +1,4 @@
-# CS496 Advanced Computer Graphics Seminar: VR/AR Systems
+# CS396 Advanced Computer Graphics Seminar: VR/AR Systems
 
 ![cover_image](https://github.com/JipengSun/2023_NU_Summer_VR/blob/main/vr_ar_cover.png)
 
