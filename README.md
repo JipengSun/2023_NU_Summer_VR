@@ -87,7 +87,7 @@ Binocluar-Displays
 + [4 inch Square LCD](https://www.alibaba.com/product-detail/4-0inch-Square-tft-lcd-display_62075695201.html?spm=a2700.7724857.0.0.16502b63kK0wwP)
 
 ### Accelerometer (IMU)
-+ [HiLetgo MPU-6050] (https://www.amazon.com/Pack-Google-Cardboard-Bi-convex-Biconvex/dp/B01FWVWUEU/ref=sr_1_6?keywords=Virtual+Reality+Lenses&qid=1675283182&sr=8-6)
++ [HiLetgo MPU-6050](https://www.amazon.com/Pack-Google-Cardboard-Bi-convex-Biconvex/dp/B01FWVWUEU/ref=sr_1_6?keywords=Virtual+Reality+Lenses&qid=1675283182&sr=8-6)
 
 ### Lens
 + [Google Cardboard Biconvex Lens](https://www.amazon.com/Pack-Google-Cardboard-Bi-convex-Biconvex/dp/B01FWVWUEU/ref=sr_1_6?keywords=Virtual+Reality+Lenses&qid=1675283182&sr=8-6)
