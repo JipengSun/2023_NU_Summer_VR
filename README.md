@@ -21,7 +21,7 @@ Course Assistant:
 
 ## Syllabus
 
-### Week 1
+### Week 1: Introduction to VR/AR Systems
 **Key questions to ask** 
 
 1. What really makes a VR VR? 
@@ -30,7 +30,7 @@ Course Assistant:
 
 Introduction to VR/AR systems and basic graphics pipelines.
 
-### Week 2
+### Week 2: Design VR Systems from Scratch
 **Key questions to ask** 
 
 1. What is the minimum viable product (MVP) for a VR? 
@@ -43,7 +43,7 @@ VR design plans brain storming. There is no 'correct' answers for engineering. T
 
 [Brainstorm Recording Notes from Ashwin Baluja](https://docs.google.com/document/d/1095E-3hxstYPrixhDUMt8MTo0VFCKXdvQ9nbPGZaKUU/edit)
 
-### Week 3
+### Week 3: Graphics Rendering Pipeline on Emebedded Systems
 **Key questions to ask** 
 
 1. Given a designed MVP, which is a near eye monitor, how to draw/render scenes on that screen?
@@ -52,7 +52,7 @@ VR design plans brain storming. There is no 'correct' answers for engineering. T
 
 3. How to use WebGL to implement the rendering pipeline?
 
-### Week 4
+### Week 4: Human Binocular Vision System
 **Key questions to ask** 
 
 1. Will the current implemented binocular rendering effect work? Why it won't give us 3D effect?
@@ -61,7 +61,7 @@ VR design plans brain storming. There is no 'correct' answers for engineering. T
 
 3. How should we change our graphics rendering logics to fit for human perception?
 
-### Week 5
+### Week 5: Near-Eye Display Optics
 **Key questions to ask** 
 
 1. To make it real, how to make a 2-cm far displayed image be perceived as 1.5-meter away from the users?
