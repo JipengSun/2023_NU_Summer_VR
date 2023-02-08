@@ -1,6 +1,6 @@
 # CS396 Advanced Computer Graphics Seminar: VR/AR Systems
 
-![cover_image](https://github.com/JipengSun/2023_NU_Summer_VR/blob/main/vr_ar_conver_1.png?raw=true)
+![cover_image](https://github.com/JipengSun/2023_NU_Summer_VR/blob/main/vr_ar_cover_2.png?raw=true)
 
 Course Coordinator: 
 
