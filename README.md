@@ -74,7 +74,7 @@ VR design plans brain storming. There is no 'correct' answers for engineering. T
 
 3. Will the rendered images look distorted after adding lens between the display and eyes? If so, how should we correct them?
 
-4. How could we solve the dizziness problems caused by vergence & accommodation conflicts?
+4. How could we solve the dizziness problem caused by vergence & accommodation conflict?
 
 ## Sourcing
 
