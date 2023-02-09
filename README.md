@@ -61,6 +61,10 @@ VR design plans brain storming. There is no 'correct' answers for engineering. T
 
 3. How should we change our graphics rendering logics to fit for human perception?
 
+4. What are the depth cues for human? How does the relative importance of them change based on the distance?
+
+5. Why will we feel dizzy wearing VR/AR glasses? What is the vergence & accommodation problem?
+
 ### Week 5: Near-Eye Display Optics
 **Key questions to ask** 
 
@@ -69,6 +73,8 @@ VR design plans brain storming. There is no 'correct' answers for engineering. T
 2. What are the poplur optical components of current near eye display? How do they work? What are the trade-offs?
 
 3. Will the rendered images look distorted after adding lens between the display and eyes? If so, how should we correct them?
+
+4. How could we solve the dizziness problems caused by vergence & accommodation conflicts?
 
 ## Sourcing
 
