@@ -111,7 +111,7 @@ Binocluar-Displays
 + [MIKROE Audio AMP](https://www.mikroe.com/audioamp-11-click)
 
 ### WIFI Module(Optional)
-+[MIKROE WIFI-7 Click](https://www.mikroe.com/wifi-7-click)
++ [MIKROE WIFI-7 Click](https://www.mikroe.com/wifi-7-click)
 
 ## Resources
 ### VR Hardware Courses from Other Universities:
