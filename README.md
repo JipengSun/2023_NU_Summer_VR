@@ -98,6 +98,18 @@ Binocluar-Displays
 ### Lens
 + [Google Cardboard Biconvex Lens](https://www.amazon.com/Pack-Google-Cardboard-Bi-convex-Biconvex/dp/B01FWVWUEU/ref=sr_1_6?keywords=Virtual+Reality+Lenses&qid=1675283182&sr=8-6)
 
+### Housing with Handle
++ [ATLASONIX](https://www.amazon.com/Headset-Compatible-iPhone-Android-Phones/dp/B07WRYK1BD/ref=sr_1_6?crid=L0HVNTUMBKD0&keywords=viewmaster+deluxe+vr+viewer&qid=1677732551&sprefix=viewmaster+delu%2Caps%2C203&sr=8-6)
+
+### Camera (Optional)
++ [Raspberry Pi Camera Module](https://www.sparkfun.com/products/21331)
+
+### Optical Encoder for Enhanced Pose Estimation (Optional)
++ [MIKROE Opto Encoder 3 Click](https://www.sparkfun.com/products/19634)
+
+### Audio Player(Optional)
++ [MIKROE Audio AMP](https://www.mikroe.com/audioamp-11-click)
+
 ## Resources
 ### VR Hardware Courses from Other Universities:
 
