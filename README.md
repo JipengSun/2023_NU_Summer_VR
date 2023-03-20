@@ -81,7 +81,7 @@ VR design plans brain storming. There is no 'correct' answers for engineering. T
 ### Microprocessor
 
 + [Raspberry Pi Zero 2W](https://www.raspberrypi.com/products/raspberry-pi-zero-2-w/)
-+ [PJRC Teensy 4.1](https://www.amazon.com/PJRC-Cortex-M7-Processor-iMXRT1062-Without/dp/B088JY7P2H/ref=sr_1_1?crid=3L91V8C3E4892&keywords=teensy&qid=1675281865&sprefix=teensy%2Caps%2C119&sr=8-1)
++ [Teensy 4.1](https://www.sparkfun.com/products/16771)
 
 
 ### Display
