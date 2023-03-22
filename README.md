@@ -81,13 +81,18 @@ VR design plans brain storming. There is no 'correct' answers for engineering. T
 ### Microprocessor
 
 + [Raspberry Pi Zero 2W](https://www.raspberrypi.com/products/raspberry-pi-zero-2-w/)
-+ [Teensy 4.1](https://www.sparkfun.com/products/16771)
+
++ [Teensy 4.1](https://www.pjrc.com/store/teensy41.html)
 
 
 ### Display
 
 Mono-Display
 + [7 inch LCD (STARTEK IPS Module)](https://www.alibaba.com/product-detail/5-5-5-5-6-5_1600512906287.html?spm=a2700.details.0.0.6aa27b35LK90YX)
+
++ [6 inch LCD (Eurotech Ltd.)](https://www.alibaba.com/product-detail/OEM-ODM-6-Inch-Tft-PCAP_1600162048967.html?s=p)
+
++ [6 inch LCD (Elida Ltd.)](https://www.alibaba.com/product-detail/High-resolution-7-inch-LCD-display_62446541480.html)
 
 Binocluar-Displays
 + [4 inch Square LCD](https://www.alibaba.com/product-detail/4-0inch-Square-tft-lcd-display_62075695201.html?spm=a2700.7724857.0.0.16502b63kK0wwP)
