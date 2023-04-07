@@ -110,7 +110,7 @@ Binocluar-Displays
 ### Lens
 + [Google Cardboard Biconvex Lens](https://www.amazon.com/Pack-Google-Cardboard-Bi-convex-Biconvex/dp/B01FWVWUEU/ref=sr_1_6?keywords=Virtual+Reality+Lenses&qid=1675283182&sr=8-6)
 
-### Closure with Handle
+### Enclosure with Handle
 + [ATLASONIX](https://www.amazon.com/Headset-Compatible-iPhone-Android-Phones/dp/B07WRYK1BD/ref=sr_1_6?crid=L0HVNTUMBKD0&keywords=viewmaster+deluxe+vr+viewer&qid=1677732551&sprefix=viewmaster+delu%2Caps%2C203&sr=8-6)
 
 ### Camera (Optional)
