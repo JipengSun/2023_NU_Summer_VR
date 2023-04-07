@@ -102,10 +102,10 @@ Mono-Display
 Binocluar-Displays
 + [4 inch Square LCD](https://www.alibaba.com/product-detail/4-0inch-Square-tft-lcd-display_62075695201.html?spm=a2700.7724857.0.0.16502b63kK0wwP)
 
-### Inertial measurement unit (IMU)
+### Inertial Measurement Unit (IMU w/ or w/o Fusion)
 + [HiLetgo MPU-6050](https://www.amazon.com/Pack-Google-Cardboard-Bi-convex-Biconvex/dp/B01FWVWUEU/ref=sr_1_6?keywords=Virtual+Reality+Lenses&qid=1675283182&sr=8-6)
 
-+ [Adafruit IMU Fusion Breakout - BNO055](https://www.adafruit.com/product/2472)
++ [Adafruit 9-DOF IMU Fusion Breakout - BNO085](https://www.adafruit.com/product/4754)
 
 ### Lens
 + [Google Cardboard Biconvex Lens](https://www.amazon.com/Pack-Google-Cardboard-Bi-convex-Biconvex/dp/B01FWVWUEU/ref=sr_1_6?keywords=Virtual+Reality+Lenses&qid=1675283182&sr=8-6)
