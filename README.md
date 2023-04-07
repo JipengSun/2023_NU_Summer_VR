@@ -84,7 +84,7 @@ VR design plans brain storming. There is no 'correct' answers for engineering. T
 
 + [Teensy 4.1](https://www.pjrc.com/store/teensy41.html)
 
-### Mini Computer (Much More Powerful MCU!)
+### OS Hardware (Mini Computer)
 
 + [Raspberry Pi 3 B](https://www.amazon.com/s?k=Raspberry+Pi)
 
