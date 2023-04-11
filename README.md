@@ -15,7 +15,7 @@ Course Assistant:
 [Ashwin Baluja, Northwestern University](https://www.linkedin.com/in/ashwinbaluja/)
 
 ## Introduction
-[Course website](https://jipengsun.github.io/2023_NU_Summer_VR/)
+[Course website](https://www.mccormick.northwestern.edu/computer-science/academics/courses/descriptions/396-23.html)
 
 [Course Summary Notes from Ashwin Baluja](https://docs.google.com/document/d/1KwzQh9GtexCEEMtMlNWnygPWvxoisXmhsLYb3fq0bsw/edit)
 
