@@ -117,7 +117,7 @@ VR design plans brainstorming. There are no ‘correct’ answers for engineerin
 
 
 
-### Week 9: Additional VR Features: Audio, Eye Tracking, and Rendering Engines
+### Week 9: Additional VR Features: Audio, Eye Tracking, Cloud AI Interfaces, and Rendering Engines
 **Key questions to ask** 
 
 1. Vision itself alone is not reality, what other sensory input could we control?
