@@ -134,6 +134,8 @@ VR design plans brain storming. There is no 'correct' answers for engineering. T
 3. Share and demo your project with people you care and love! 
 
 
+![cover_image](https://github.com/JipengSun/2023_NU_Summer_VR/blob/main/vr_ar_cover_2.png?raw=true)
+
 ## Sourcing
 
 ### Microprocessor
