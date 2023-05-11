@@ -24,22 +24,23 @@ Course Assistant:
 ### Week 1: Introduction to VR/AR Systems
 **Key questions to ask** 
 
-1. What really makes a VR VR? 
+1. What really makes a VR VR?
 
 2. What is the computational process of transforming a 3D scene to what displayed to your eyes?
+
 
 Introduction to VR/AR systems and basic graphics pipelines.
 
 ### Week 2: Design VR Systems from Scratch
 **Key questions to ask** 
 
-1. What is the minimum viable product (MVP) for a VR? 
-
-2. How could we turn a passion/dream into a workable engineering plan? 
-
+1. What is the minimum viable product (MVP) for a VR?
+2. How could we turn a passion/dream into a workable engineering plan?
 3. What are the tradeoffs for different design plans?
 
-VR design plans brain storming. There is no 'correct' answers for engineering. The problem we are facing is: 'Driven by your passion/goal, given limited resources, knowing what is your metrics to evaluate success, how to make your best possible plan and act on it.' Come up with a step-by-step hardware prototyping iteration plan. Start sourcing the hardware components based on your design.
+
+VR design plans brainstorming. There are no ‘correct’ answers for engineering. The problem we are facing is: ‘Driven by your passion/goal, given limited resources, knowing what your metrics to evaluate success, how to make your best possible plan and act on it.’ Come up with a step-by-step hardware prototyping iteration plan. Start sourcing the hardware components based on your design.
+
 
 [Brainstorm Recording Notes from Ashwin Baluja](https://docs.google.com/document/d/1095E-3hxstYPrixhDUMt8MTo0VFCKXdvQ9nbPGZaKUU/edit)
 
@@ -55,83 +56,69 @@ VR design plans brain storming. There is no 'correct' answers for engineering. T
 ### Week 4: Human Binocular Vision System
 **Key questions to ask** 
 
-1. Will the current implemented binocular rendering effect work? Why it won't give us 3D effect?
+1. Will the current implemented binocular rendering effect work? Why won't it give us a 3D effect?
+2. What are the biological anatomy and functions of human binocular eyes?
+3. How should we change our graphics rendering logic to fit human perception?
+4. What are the depth cues for humans? How does the relative importance of them change based on the distance?
 
-2. What are the biological anatomy and functions of human binocular eyes? 
-
-3. How should we change our graphics rendering logics to fit for human perception?
-
-4. What are the depth cues for human? How does the relative importance of them change based on the distance?
 
 
 ### Week 5: Near-Eye Display Optics
 **Key questions to ask** 
 
 1. To make it real, how to make a 2-cm far displayed image be perceived as 1.5-meter away from the users?
-
-2. What are the poplur optical components of current near eye display? How do they work? What are the trade-offs?
-
-3. Will the rendered images look distorted after adding lens between the display and eyes? If so, how should we correct them?
-
+2. What are the popular optical components of the current near eye display? How do they work? What are the trade-offs?
+3. Will the rendered images look distorted after adding a lens between the display and eyes? If so, how should we correct them?
 4. Why will we feel dizzy wearing VR/AR glasses? What is the vergence & accommodation problem?
+
 
 ### Week 6: Orientation/Position Tracking Hardware
 **Key questions to ask** 
 
 1. How to match the perspective of the rendered scene with the actual head pose of the users?
-
-2. How humans design 'interial measurement unit' (IMU) to measure the pose? What are the physical principles behind it?
-
-3. How to turn the IMU reading value to control rotation? 
+2. How do humans design ‘inertial measurement unit’ (IMU) to measure the pose? What are the physical principles behind it?
+3. How to turn the IMU reading value to control rotation?
 
 
 ### Week 7: Build VR/AR Without Dizziness
 **Key questions to ask** 
 
 1. What are the sources of VR/AR dizziness?
-
-2. What is vergence accommdation conflict? Why it is a problem?
-
+2. What is the vergence accommodation conflict? Why is it a problem?
 3. How could we solve/alleviate the dizziness problem caused by vergence & accommodation conflict?
+4. How to analyze the latency of the current system?
+5. What are the graphics and hardware approaches to cut down the latency?
 
-4. How to analyze the latency of current system?
-
-5. What are the graphics and hardware approaches to cut down the latency? 
 
 
 ### Week 8: Controller Pose Estimation for Interaction
 **Key questions to ask** 
 
-1. What are the haman machine interfaces for VR/AR system? How could we interact with VR/AR systems?
-
+1. What are the human machine interfaces for VR/AR systems? How could we interact with VR/AR systems?
 2. How does hand gesture recognition work? What is the general computer vision development pipeline?
+3. How to add a camera into the current system?
 
-3. How to add camera into the current system?
 
 
 
 ### Week 9: Additional VR Features: Audio, Eye Tracking, and Rendering Engines
 **Key questions to ask** 
 
-1. Vision itself alone is not reality, what other sensory input we could control? 
-
-2. Why eye tracking is important for VR/AR systems? How humans do eye tracking now?
-
+1. Vision itself alone is not reality, what other sensory input could we control?
+2. Why is eye tracking important for VR/AR systems? How do humans do eye tracking now?
 3. How to leverage advanced graphics engine software to accelerate VR/AR creation?
-
 4. How to export and migrate the graphics engine project into our DIY system?
+5. How to leverage cloud AI interface to empower your system?
 
-5. How to leverage cloud AI interface to empower your system? 
 
 
 ### Week 10: State of Art VR/AR Research (Guest Lectures) and Demo Day
 **Key questions to ask** 
 
 1. What are the current state of art VR/AR research projects?
-
 2. What could I do next to start a VR/AR academia/industry job? How to step further?
+3. Share and demo your project with people you care and love!
 
-3. Share and demo your project with people you care and love! 
 
 
 ![prototype_image](https://github.com/JipengSun/2023_NU_Summer_VR/blob/main/prototype.png?raw=true)
