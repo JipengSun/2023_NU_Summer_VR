@@ -63,7 +63,6 @@ VR design plans brain storming. There is no 'correct' answers for engineering. T
 
 4. What are the depth cues for human? How does the relative importance of them change based on the distance?
 
-5. Why will we feel dizzy wearing VR/AR glasses? What is the vergence & accommodation problem?
 
 ### Week 5: Near-Eye Display Optics
 **Key questions to ask** 
@@ -74,7 +73,66 @@ VR design plans brain storming. There is no 'correct' answers for engineering. T
 
 3. Will the rendered images look distorted after adding lens between the display and eyes? If so, how should we correct them?
 
-4. How could we solve the dizziness problem caused by vergence & accommodation conflict?
+4. Why will we feel dizzy wearing VR/AR glasses? What is the vergence & accommodation problem?
+
+### Week 6: Orientation/Position Tracking Hardware
+**Key questions to ask** 
+
+1. How to match the perspective of the rendered scene with the actual head pose of the users?
+
+2. How humans design 'interial measurement unit' (IMU) to measure the pose? What are the physical principles behind it?
+
+3. How to turn the IMU reading value to control rotation? 
+
+
+### Week 7: Build VR/AR Without Dizziness
+**Key questions to ask** 
+
+1. What are the sources of VR/AR dizziness?
+
+2. What is vergence accommdation conflict? Why it is a problem?
+
+3. How could we solve/alleviate the dizziness problem caused by vergence & accommodation conflict?
+
+4. How to analyze the latency of current system?
+
+5. What are the graphics and hardware approaches to cut down the latency? 
+
+
+### Week 8: Controller Pose Estimation for Interaction
+**Key questions to ask** 
+
+1. What are the haman machine interfaces for VR/AR system? How could we interact with VR/AR systems?
+
+2. How does hand gesture recognition work? What is the general computer vision development pipeline?
+
+3. How to add camera into the current system?
+
+
+
+### Week 9: Additional VR Features: Audio, Eye Tracking, and Rendering Engines
+**Key questions to ask** 
+
+1. Vision itself alone is not reality, what other sensory input we could control? 
+
+2. Why eye tracking is important for VR/AR systems? How humans do eye tracking now?
+
+3. How to leverage advanced graphics engine software to accelerate VR/AR creation?
+
+4. How to export and migrate the graphics engine project into our DIY system?
+
+5. How to leverage cloud AI interface to empower your system? 
+
+
+### Week 10: State of Art VR/AR Research (Guest Lectures) and Demo Day
+**Key questions to ask** 
+
+1. What are the current state of art VR/AR research projects?
+
+2. What could I do next to start a VR/AR academia/industry job? How to step further?
+
+3. Share and demo your project with people you care and love! 
+
 
 ## Sourcing
 
