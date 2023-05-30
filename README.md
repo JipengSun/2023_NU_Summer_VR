@@ -155,22 +155,23 @@ VR design plans brainstorming. There are no ‘correct’ answers for engineerin
 
 ### Display
 
-+[TopFoison 5.5 inch with mini-hdmi board](https://www.alibaba.com/product-detail/Free-Sample-1920-1080-4-5_1600490151764.html?spm=a2747.manage.0.0.5a3e71d24dyiGb)
++ [TopFoison 5.5 inch with mini-hdmi board](https://www.alibaba.com/product-detail/Free-Sample-1920-1080-4-5_1600490151764.html?spm=a2747.manage.0.0.5a3e71d24dyiGb)
 
 ### Inertial Measurement Unit (IMU w/ or w/o Fusion)
 
 + [Adafruit 9-DOF IMU Fusion Breakout - BNO085](https://www.adafruit.com/product/4754)
 
-### Enclosure with Handle
-
-+ [VRG Pro](https://www.amazon.com/NEWSTYP-Wide-Angle-Smartphone-Eyeglasses-Bluetooth/dp/B0BF511LMZ?th=1)
-
 ### Camera
 + [ESP32 CAM](https://www.amazon.com/HiLetgo-ESP32-CAM-Development-Bluetooth-Raspberry/dp/B07RXPHYNM)
 
 
+### Enclosure with Handle
 
-## Archieved Sourcing List
++ [VRG Pro](https://www.amazon.com/NEWSTYP-Wide-Angle-Smartphone-Eyeglasses-Bluetooth/dp/B0BF511LMZ?th=1)
+
+
+
+## Archieved Sourcing List (Abandoned)
 
 ### Microprocessor
 
