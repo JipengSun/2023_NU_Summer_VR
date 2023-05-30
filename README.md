@@ -147,37 +147,56 @@ VR design plans brainstorming. There are no ‘correct’ answers for engineerin
 
 ## Sourcing
 
+### SoC (System on Chip, Mini Computer)
+
++ [Libre Le Patato](https://libre.computer/products/aml-s905x-cc/)
+
++ [Nvidia Jetson Nano](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-nano/)
+
+### Display
+
++[TopFoison 5.5 inch with mini-hdmi board](https://www.alibaba.com/product-detail/Free-Sample-1920-1080-4-5_1600490151764.html?spm=a2747.manage.0.0.5a3e71d24dyiGb)
+
+### Inertial Measurement Unit (IMU w/ or w/o Fusion)
+
++ [Adafruit 9-DOF IMU Fusion Breakout - BNO085](https://www.adafruit.com/product/4754)
+
+### Enclosure with Handle
+
++ [VRG Pro](https://www.amazon.com/NEWSTYP-Wide-Angle-Smartphone-Eyeglasses-Bluetooth/dp/B0BF511LMZ?th=1)
+
+### Camera
++ [ESP32 CAM](https://www.amazon.com/HiLetgo-ESP32-CAM-Development-Bluetooth-Raspberry/dp/B07RXPHYNM)
+
+
+
+## Archieved Sourcing List
+
 ### Microprocessor
 
 + [Raspberry Pi Zero 2W](https://www.raspberrypi.com/products/raspberry-pi-zero-2-w/)
 
 + [Teensy 4.1](https://www.pjrc.com/store/teensy41.html)
 
-### OS Hardware (Mini Computer)
+### SoC (System on Chip, Mini Computer)
 
 + [Raspberry Pi 3 B](https://www.amazon.com/s?k=Raspberry+Pi)
 
-+ [Libre Le Patato](https://libre.computer/products/aml-s905x-cc/)
-
-### Display
-
-Mono-Display
+### Mono-Display
 + [7 inch LCD (STARTEK IPS Module)](https://www.alibaba.com/product-detail/5-5-5-5-6-5_1600512906287.html?spm=a2700.details.0.0.6aa27b35LK90YX)
 
 + [6 inch LCD (Eurotech Ltd.)](https://www.alibaba.com/product-detail/OEM-ODM-6-Inch-Tft-PCAP_1600162048967.html?s=p)
 
 + [6 inch LCD (Elida Ltd.)](https://www.alibaba.com/product-detail/High-resolution-7-inch-LCD-display_62446541480.html)
 
-Binocluar-Displays
+### Binocluar-Displays
 + [4 inch Square LCD](https://www.alibaba.com/product-detail/4-0inch-Square-tft-lcd-display_62075695201.html?spm=a2700.7724857.0.0.16502b63kK0wwP)
-
-### Inertial Measurement Unit (IMU w/ or w/o Fusion)
-+ [HiLetgo MPU-6050](https://www.amazon.com/Pack-Google-Cardboard-Bi-convex-Biconvex/dp/B01FWVWUEU/ref=sr_1_6?keywords=Virtual+Reality+Lenses&qid=1675283182&sr=8-6)
-
-+ [Adafruit 9-DOF IMU Fusion Breakout - BNO085](https://www.adafruit.com/product/4754)
 
 ### Lens
 + [Google Cardboard Biconvex Lens](https://www.amazon.com/Pack-Google-Cardboard-Bi-convex-Biconvex/dp/B01FWVWUEU/ref=sr_1_6?keywords=Virtual+Reality+Lenses&qid=1675283182&sr=8-6)
+
+### Inertial Measurement Unit (IMU w/ or w/o Fusion)
++ [HiLetgo MPU-6050](https://www.amazon.com/Pack-Google-Cardboard-Bi-convex-Biconvex/dp/B01FWVWUEU/ref=sr_1_6?keywords=Virtual+Reality+Lenses&qid=1675283182&sr=8-6)
 
 ### Enclosure with Handle
 + [ATLASONIX](https://www.amazon.com/Headset-Compatible-iPhone-Android-Phones/dp/B07WRYK1BD/ref=sr_1_6?crid=L0HVNTUMBKD0&keywords=viewmaster+deluxe+vr+viewer&qid=1677732551&sprefix=viewmaster+delu%2Caps%2C203&sr=8-6)
