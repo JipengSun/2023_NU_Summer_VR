@@ -18,7 +18,7 @@ Course Assistant:
 
 Welcome to CS396 VR/AR Systems! 
 
-Reflecting how much time you spend looking at screens in a day, there is no doubt the physical world and digital world are connecting more and more deeply with each other for better increasing the social productivity and satisifying humans‘ nature needs for curiosity, respect, autonomy, and purpose. Virtual Reality (VR) and Augmentented Reality (AR), by merging the digital world and physical world in a more convenient and profound way, is the next digital world medium for unlocking the greater power of human productivity in the physical world.  
+Reflecting how much time you spend looking at screens in a day, there is no doubt the physical world and digital world are connecting more and more deeply with each other for better increasing the social productivity and satisifying humans‘ nature needs for curiosity, respect, autonomy, and purpose. Virtual Reality (VR) and Augmentented Reality (AR), by merging the digital world and physical world in a more convenient and profound way, is the next digital world medium for unlocking the greater power of human beings' productivity in the physical world.  
 
 In this course, students will learn how to build a standalone VR hardware & software prototype from scratch in 10 weeks and explore the possibility to extend it to a LLM assisted VR / edge AI AR system. By learning from building, we can better understand the principles, craftsmanship and subtleties behind creating a real world VR/AR product.
 
