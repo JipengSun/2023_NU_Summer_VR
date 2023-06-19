@@ -2,9 +2,7 @@
 
 ![cover_image](https://github.com/JipengSun/2023_NU_Summer_VR/blob/main/vr_ar_cover_2.png?raw=true)
 
-Course Coordinator: 
-
-[Prof. Jack Tumblin, Northwestern University](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/tumblin-jack.html)
+## Teaching Team
 
 Course Instructor: 
 
@@ -17,6 +15,10 @@ Course Assistant:
 [Yiran Zhang, Northwestern University](https://zhangpp0802.github.io/)
 
 [Jiahui Li, Northwestern University](https://www.linkedin.com/in/jiahui-iris-li/)
+
+Course Coordinator: 
+
+[Prof. Jack Tumblin, Northwestern University](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/tumblin-jack.html)
 
 ## Introduction
 
