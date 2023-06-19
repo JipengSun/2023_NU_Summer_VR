@@ -2,6 +2,14 @@
 
 ![cover_image](https://github.com/JipengSun/2023_NU_Summer_VR/blob/main/vr_ar_cover_2.png?raw=true)
 
+## Lecture Info
+
+Tue/Thur 3:30PM - 5:00PM CST
+
+June 20th - Aug 27th, 2023
+
+M345, Tech Building, Northwestern University
+
 ## Teaching Team
 
 Course Instructor: 
