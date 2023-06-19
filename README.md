@@ -14,6 +14,10 @@ Course Assistant:
 
 [Ashwin Baluja, Northwestern University](https://www.linkedin.com/in/ashwinbaluja/)
 
+[Yiran Zhang, Northwestern University](https://zhangpp0802.github.io/)
+
+[Jiahui Li, Northwestern University](https://www.linkedin.com/in/jiahui-iris-li/)
+
 ## Introduction
 
 Welcome to CS396 VR/AR Systems! 
